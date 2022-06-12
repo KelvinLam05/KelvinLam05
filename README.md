@@ -20,6 +20,10 @@ I'm Chee Hong, a self-taught passionate data scientist from 🇳🇱 the Netherl
 
 * [LinkedIn](https://www.linkedin.com/in/chee-hong-lam-9a80171b6/)
 
+### DATA VISUALIZATION
+
+* [Tableau](https://public.tableau.com/app/profile/kelvin.lam6956)
+
 ### TOOLS
 
 * Python, SQL, Tableau

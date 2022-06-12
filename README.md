@@ -18,6 +18,8 @@ I'm Chee Hong, a self-taught passionate data scientist from 🇳🇱 the Netherl
 
 ### CONNECT WITH ME
 
+* [arbitrary case-insensitive reference text]: https://www.mozilla.org
+
 
 ### TOOLS
 

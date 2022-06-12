@@ -18,7 +18,7 @@ I'm Chee Hong, a self-taught passionate data scientist from 🇳🇱 the Netherl
 
 ### CONNECT WITH ME
 
-* [LinkedIn](https://www.google.com](https://www.linkedin.com/in/chee-hong-lam-9a80171b6/)
+* [LinkedIn](https://www.linkedin.com/in/chee-hong-lam-9a80171b6/)
 
 ### TOOLS
 

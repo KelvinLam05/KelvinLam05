@@ -13,7 +13,7 @@ I'm Chee Hong, a self-taught passionate data scientist from 🇳🇱 the Netherl
 * Working knowledge in classical statistics (Classification, Regression, Clustering, Optimization, Probability)
 * Experience in data cleaning, wrangling, analysis, and modelling
 * Experience in testing (A/B)
-* Practical knowledge of Python (with key libraries and packages)
+* Working knowledge of Python (with key libraries and packages)
 * Basis knowledge of SQL
 * Working knowledge of data visualization concepts in reports (Tableau) 
 

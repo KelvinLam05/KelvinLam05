@@ -2,9 +2,9 @@
 
 I'm Chee Hong, a self-taught passionate data scientist from 🇳🇱 the Netherlands. Worked on a few Statistics/ML projects in regression, classification, NLP, and unsupervised learning.
 
-### CURRENTLY
+### CURRENTLY LEARNING
 
-* Learning NLP and Deep Learning
+* NLP and Deep Learning
 
 ### KNOWLEDGE/SKILLS
 

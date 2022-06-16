@@ -14,7 +14,7 @@ I'm Chee Hong, a self-taught passionate data scientist from 🇳🇱 the Netherl
 * Experience in data cleaning, wrangling, analysis, and modelling
 * Experience in testing (A/B)
 * Working knowledge of Python (with key libraries and packages)
-* Basis knowledge of SQL
+* Basis knowledge of SQL (SQLite)
 * Working knowledge of data visualization concepts in reports (Tableau) 
 
 ### CONNECT WITH ME

@@ -11,7 +11,7 @@ I'm Chee Hong, a self-taught passionate data scientist from 🇳🇱 the Netherl
 * Strong track record in solving analytical problems using quantitative and machine learning approaches
 * Knowledge of common machine learning algorithms such as Linear Regression, Logistic Regression, K-means clustering
 * Working knowledge in classical statistics (Classification, Regression, Clustering, Optimization, Probability)
-* Experience in data cleaning, wrangling, analysis, and modelling
+* Experience in data cleaning, wrangling, analysis, and modeling
 * Experience in testing (A/B)
 * Working knowledge of Python (with key libraries and packages)
 * Basis knowledge of SQL (SQLite)

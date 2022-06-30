@@ -1,4 +1,4 @@
-## HI THERE! 👋
+## ABOUT ME
 
 I'm a self-taught data scientist passionate about data science in general and machine learning in particular. I am currently looking for a job. Feel free to contact me if you want to hire me. 
 

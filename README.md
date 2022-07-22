@@ -1,6 +1,6 @@
 ## ABOUT ME
 
-I'm a self-taught data scientist passionate about data science in general and machine learning in particular. I am currently looking for a job. I've worked on a few machine learning and statistics projects in classification, regression, NLP, and unsupervised learning.
+I'm a self-taught data scientist passionate about data science in general and machine learning in particular.
 
 ### CURRENTLY LEARNING
 

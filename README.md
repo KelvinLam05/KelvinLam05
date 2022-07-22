@@ -1,8 +1,6 @@
 ## ABOUT ME
 
-I'm a self-taught data scientist passionate about data science in general and machine learning in particular. I am currently looking for a job. Feel free to contact me if you want to hire me. 
-
-I've worked on a few machine learning and statistics projects in classification, regression, NLP, and unsupervised learning.
+I'm a self-taught data scientist passionate about data science in general and machine learning in particular. I am currently looking for a job. I've worked on a few machine learning and statistics projects in classification, regression, NLP, and unsupervised learning.
 
 ### CURRENTLY LEARNING
 
@@ -23,5 +21,6 @@ I've worked on a few machine learning and statistics projects in classification,
 
 * Python, SQL, Tableau
 
+### Contact Me
 
 Feel free to reach out by email/LinkedIn. For data visualization projects, view my [Tableau Public](https://public.tableau.com/app/profile/kelvin.lam6956) portfolio.

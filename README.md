@@ -24,4 +24,4 @@ I've worked on a few machine learning and statistics projects in classification,
 * Python, SQL, Tableau
 
 
-For data visualization projects, view my [Tableau Public](https://public.tableau.com/app/profile/kelvin.lam6956) portfolio.
+Feel free to reach out by email/LinkedIn. For data visualization projects, view my [Tableau Public](https://public.tableau.com/app/profile/kelvin.lam6956) portfolio.

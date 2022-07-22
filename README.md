@@ -19,13 +19,11 @@ I've worked on a few machine learning and statistics projects in classification,
 * Basis knowledge of SQL
 * Working knowledge of data visualization concepts in reports (Tableau) 
 
+For data visualization projects, view my [Tableau Public](https://public.tableau.com/app/profile/kelvin.lam6956) portfolio.
+
 ### CONNECT WITH ME
 
 * [LinkedIn](https://www.linkedin.com/in/chee-hong-lam-9a80171b6/)
-
-### DATA VISUALIZATION
-
-* [Tableau](https://public.tableau.com/app/profile/kelvin.lam6956)
 
 ### TOOLS
 

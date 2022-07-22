@@ -21,6 +21,6 @@ I'm a self-taught data scientist passionate about data science in general and ma
 
 * Python, SQL, Tableau
 
-### Contact Me
+### CONTACT ME
 
 Feel free to reach out by email/LinkedIn. For data visualization projects, view my [Tableau Public](https://public.tableau.com/app/profile/kelvin.lam6956) portfolio.
